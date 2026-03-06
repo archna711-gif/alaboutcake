@@ -13,23 +13,9 @@ The goal is to make baking easy and fun for everyone.
 - Baking tips
 - Simple and clean website design
 
-## 🛠 Built With
-- HTML
-- CSS
-- JavaScript (optional)
-
 ## 🌐 Live Website
 You can view the website here:  
 https://alaboutcake.github.io/
-
-## 📂 Project Structure
-
-index.html
-style.css
-script.js
-images/
-README.md
-
 
 ## 🚀 How to Use
 1. Download or clone the project
